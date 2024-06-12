@@ -45,7 +45,7 @@ _For more projects and contributions, please scroll through my repositories._
 I'm always open to connecting with fellow developers and tech enthusiasts. If you're interested in my work or have any questions, don't hesitate to reach out!
 
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/anvarbek-tilakov-5b7221313)
-- **Twitter:** [Your Twitter](https://twitter.com/yourprofile)
+- **Twitter:** [Your Twitter](https://twitter.com/@AnvarbekTilakov)
 
 Thank you for visiting my GitHub profile!
 
