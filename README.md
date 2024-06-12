@@ -8,7 +8,7 @@ I am deeply passionate about web programming and have honed my skills over sever
 
 - 🌱 I’m currently working on expanding my knowledge in **JavaScript frameworks** and exploring more about **Progressive Web Apps**.
 - 💡 I love experimenting with new technologies and building small projects to refine my craft.
-- 📫 How to reach me: [Email me](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+- 📫 How to reach me: [Email me](anvarbektilakov0219@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anvarbek-tilakov-5b7221313).
 
 ## My Skill Set
 
@@ -44,7 +44,7 @@ _For more projects and contributions, please scroll through my repositories._
 
 I'm always open to connecting with fellow developers and tech enthusiasts. If you're interested in my work or have any questions, don't hesitate to reach out!
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/anvarbek-tilakov-5b7221313)
 - **Twitter:** [Your Twitter](https://twitter.com/yourprofile)
 
 Thank you for visiting my GitHub profile!
